@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website! I'm an Assistant Professor at [PSE](https://www.parisschoolofeconomics.eu/en/) and a Research Fellow at the [CNRS](https://cnrs.fr/en/). I'm also a Research Affiliate at the [CEPR](https://cepr.org/). 
 
-My research focuses on macroeconomics and heterogeneity, with emphasisis on fiscal policy.
+My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal policy.
 
 [Curriculum Vitae](/files/CV_AxelleFerriere.pdf)
 
