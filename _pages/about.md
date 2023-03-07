@@ -47,3 +47,6 @@ Redistribution in Growing Economies, with D. Sachs and P. Grübener
 [Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco
 
 
+[+](https://www.dropbox.com/s/ahah4esp6u9wt06/FGNV_Slides_2023.03.pdf?raw=1)
+
+
