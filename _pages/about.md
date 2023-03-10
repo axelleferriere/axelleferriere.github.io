@@ -19,14 +19,14 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 [The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20220215.pdf), with G. Navarro, _R&R_ at _The Review of Economic Studies_, Jul 2022
 
-[On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, _R&R_ at _JPE Macro_, Jan 2023
-
 [Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition](/files/FNaRH_202110.pdf), with G. Navarro and R. Reyes-Heroles
 
-Redistribution in Growing Economies, with D. Sachs and P. Grübener
+The Equity-Efficiency Trade-Off: Rising Inequality vs. Rising Living Standards, with D. Sachs and P. Grübener
 
 
 ## Publications
+
+[On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, forthcoming at _JPE Macro_
 
 [Fiscal Austerity in Ambiguous Times](https://www.aeaweb.org/articles?id=10.1257/mac.20160085), with A. Karantounias, _American Economic Journal: Macroeconomics_, Jan 2019 [[online appendix](/files/fiscal_austerity_online.pdf)]
 
@@ -45,8 +45,4 @@ Redistribution in Growing Economies, with D. Sachs and P. Grübener
 [Sovereign Default, Inequality, and Progressive Taxation](/files/Ferriere_default_2015.pdf)
 
 [Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco
-
-
-[+](https://www.dropbox.com/s/ahah4esp6u9wt06/FGNV_Slides_2023.03.pdf?raw=1)
-
 
