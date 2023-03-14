@@ -46,3 +46,5 @@ The Equity-Efficiency Trade-Off: Rising Inequality vs. Rising Living Standards, 
 
 [Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco
 
+
+[+](https://us02web.zoom.us/j/5427972694)
