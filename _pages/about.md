@@ -15,18 +15,23 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 [Curriculum Vitae](/files/CV_AxelleFerriere.pdf)
 
 
-## Research in progress
+## Working papers
 
-[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20220215.pdf), with G. Navarro, _R&R_ at _The Review of Economic Studies_, Jul 2022
+[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20220215.pdf), with G. Navarro, _Conditionally Accepted_ at _The Review of Economic Studies_, Mar 2023
+
+[On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, _Accepted_ at _JPE Macro_, Feb 2023
 
 [Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition](/files/FNaRH_202110.pdf), with G. Navarro and R. Reyes-Heroles
 
-The Equity-Efficiency Trade-Off: Rising Inequality vs. Rising Living Standards, with D. Sachs and P. Grübener
+
+## Research in progress
+
+Optimal Redistribution: Rising Inequality vs. Rising Living Standards, with D. Sachs and P. Grübener
+
+The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franjo and Y. Zheng
 
 
 ## Publications
-
-[On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, forthcoming at _JPE Macro_
 
 [Fiscal Austerity in Ambiguous Times](https://www.aeaweb.org/articles?id=10.1257/mac.20160085), with A. Karantounias, _American Economic Journal: Macroeconomics_, Jan 2019 [[online appendix](/files/fiscal_austerity_online.pdf)]
 
@@ -37,7 +42,7 @@ The Equity-Efficiency Trade-Off: Rising Inequality vs. Rising Living Standards, 
 
 ## Others publications
 
-[Comments on “Capital Income Taxation with Housing”](https://www.sciencedirect.com/science/article/abs/pii/S0165188920300531), _Journal of Economic Dynamics and Control_, June 2020
+[Comments on “Capital Income Taxation with Housing”](https://www.sciencedirect.com/science/article/abs/pii/S0165188920300531), _Journal of Economic Dynamics and Control_, Jun 2020
 
 
 ## Dormant research
