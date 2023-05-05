@@ -21,7 +21,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 [On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, _Accepted_ at _Journal of Political Economy Macroeconomics_, Feb 2023
 
-[Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition](/files/FNaRH_202110.pdf), with G. Navarro and R. Reyes-Heroles
+Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
 
 
 ## Research in progress
