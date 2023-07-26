@@ -19,8 +19,6 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 [The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20220215.pdf), with G. Navarro, _Conditionally Accepted_ at _Review of Economic Studies_, Mar 2023
 
-[On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, _Accepted_ at _Journal of Political Economy Macroeconomics_, Feb 2023
-
 Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
 
 
@@ -32,6 +30,8 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 
 
 ## Publications
+
+[On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, _Journal of Political Economy Macroeconomics_, Jun 2023
 
 [Fiscal Austerity in Ambiguous Times](https://www.aeaweb.org/articles?id=10.1257/mac.20160085), with A. Karantounias, _American Economic Journal: Macroeconomics_, Jan 2019 [[online appendix](/files/fiscal_austerity_online.pdf)]
 
