@@ -52,6 +52,6 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 [Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco
 
 
-[+](https://us02web.zoom.us/j/5427972694) [+](/files/Presentation_20230821.pdf)
+[+](https://us02web.zoom.us/j/5427972694)
 
 
