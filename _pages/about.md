@@ -17,7 +17,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 ## Working papers
 
-[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20220215.pdf), with G. Navarro, _Conditionally Accepted_ at _Review of Economic Studies_, Mar 2023
+[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20220215.pdf), with G. Navarro, _Accepted_ at _Review of Economic Studies_, Sept 2023
 
 Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
 
