@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I'm a Chaired Professor at [PSE](https://www.parisschoolofeconomics.eu/en/) and a Research Fellow at the [CNRS](https://cnrs.fr/en/). I'm also a Research Affiliate at the [CEPR](https://cepr.org/). 
+Welcome to my website! I'm a professor at [PSE](https://www.parisschoolofeconomics.eu/en/) and a research fellow at the [CNRS](https://cnrs.fr/en/). I'm also a research affiliate at the [CEPR](https://cepr.org/). 
 
 My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal policy.
 
