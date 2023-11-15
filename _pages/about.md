@@ -21,10 +21,10 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
 
+[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS0.12.pdf), with D. Sachs and P. Grübener
+
 
 ## Research in progress
-
-Optimal Redistribution: Rising Inequality vs. Rising Living Standards, with D. Sachs and P. Grübener
 
 The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franjo and Y. Zheng
 
@@ -52,6 +52,6 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 [Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco
 
 
-[+](https://us02web.zoom.us/j/5427972694) [+](/files/Ferriere_202311_1.pdf)
+[+](https://us02web.zoom.us/j/5427972694)
 
 
