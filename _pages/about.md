@@ -40,7 +40,7 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 [Risk and Ambiguity in Business Cycle Models](https://www.sciencedirect.com/science/article/pii/S0304393214001810), with D. Backus and S. Zin, _Journal of Monetary Economics_, Jan 2015
 
 
-## Others publications
+## Other publications
 
 [Comments on “Capital Income Taxation with Housing”](https://www.sciencedirect.com/science/article/abs/pii/S0165188920300531), _Journal of Economic Dynamics and Control_, Jun 2020
 
@@ -52,6 +52,6 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 [Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco
 
 
-[+](https://us02web.zoom.us/j/5427972694) [+](/files/Ferriere_202311_1.pdf)
+[+](https://us02web.zoom.us/j/5427972694)
 
 
