@@ -17,7 +17,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 ## Working papers
 
-[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20220215.pdf), with G. Navarro, _Accepted_ at _Review of Economic Studies_, Sept 2023
+[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20231005.pdf), with G. Navarro, _Accepted_ at _Review of Economic Studies_, Sept 2023
 
 [Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS0.12.pdf), with D. Sachs and P. Grübener, Nov 2023
 
@@ -52,6 +52,6 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 [Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco
 
 
-[+](https://us02web.zoom.us/j/5427972694) [+](/files/Ferriere_202311_1.pdf)
+[+](https://us02web.zoom.us/j/5427972694)
 
 
