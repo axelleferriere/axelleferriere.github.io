@@ -14,6 +14,8 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 [Curriculum Vitae](/files/CV_AxelleFerriere.pdf)
 
+Call for papers! [Heterogeneous Agents in Macroeconomic Models](https://www.cnb.cz/en/economic-research/conferences-seminars-and-workshops/heterogeneous-agents-in-macroeconomic-models/index.html), Prague, May 16-17, 2024
+
 
 ## Working papers
 
