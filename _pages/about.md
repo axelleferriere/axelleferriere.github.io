@@ -21,7 +21,7 @@ Call for papers! [Heterogeneous Agents in Macroeconomic Models](https://www.cnb.
 
 [The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20240301.pdf), with G. Navarro, _Accepted_ at _Review of Economic Studies_, Mar 2024
 
-[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS0.22.pdf), with D. Sachs and P. Grübener, Mar 2024
+[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202404.pdf), with D. Sachs and P. Grübener, Apr 2024
 
 Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
 
