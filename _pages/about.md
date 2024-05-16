@@ -17,7 +17,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 ## Working papers
 
-[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20240301.pdf), with G. Navarro, _Accepted_ at _Review of Economic Studies_, Mar 2024
+[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20240301.pdf), with G. Navarro, _Forthcoming_ at _Review of Economic Studies_
 
 [Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202405.pdf), with D. Sachs and P. Grübener, May 2024
 
