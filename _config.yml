@@ -14,7 +14,7 @@ description              : &description "Economics"
 url                      : https://axelleferriere.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "axelleferriere/axelleferriere.github.io"
-teaser                   : "logo_pse.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "logo_sciencespo.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Axelle Ferriere"
   avatar           : "Ademu_square_1.jpg"
-  bio              : "PSE, CNRS, CEPR"
+  bio              : "Sciences Po, CNRS, CEPR"
   location         : "Paris, France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
