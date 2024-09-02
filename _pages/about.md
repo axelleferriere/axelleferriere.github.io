@@ -17,12 +17,14 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 ## Working papers
 
-[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202405.pdf), with D. Sachs and P. Grübener, May 2024
+[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202405.pdf), with P. Grübener and D. Sachs, May 2024
 
 Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
 
 
 ## Research in progress
+
+Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits, with G. Navarro
 
 The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franjo and Y. Zheng
 
