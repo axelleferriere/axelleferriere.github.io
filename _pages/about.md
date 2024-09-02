@@ -44,9 +44,9 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 
 ## Other publications
 
-[Comments on “Capital Income Taxation with Housing”](https://www.sciencedirect.com/science/article/abs/pii/S0165188920300531), _Journal of Economic Dynamics and Control_, Jun 2020
+[Comments on: “Capital Income Taxation with Housing”](https://www.sciencedirect.com/science/article/abs/pii/S0165188920300531), _Journal of Economic Dynamics and Control_, Jun 2020
 
-[Axelle Ferriere discussion of: Sanctions and the exchange rate](https://academic.oup.com/economicpolicy/article-abstract/39/118/355/7699773), _JEconomic Policy_, Apr 2024
+[Axelle Ferriere discussion of: Sanctions and the exchange rate](https://academic.oup.com/economicpolicy/article-abstract/39/118/355/7699773), _Economic Policy_, Apr 2024
 
 
 ## Dormant research
