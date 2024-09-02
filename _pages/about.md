@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I'm a professor at [PSE](https://www.parisschoolofeconomics.eu/en/) and a research fellow at the [CNRS](https://cnrs.fr/en/). I'm also a research affiliate at the [CEPR](https://cepr.org/). 
+Welcome to my website! I'm an associate professor at [Sciences Po](https://www.sciencespo.fr/department-economics/) and a research fellow at the [CNRS](https://cnrs.fr/en/). I'm also a research affiliate at the [CEPR](https://cepr.org/). 
 
 My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal policy.
 
@@ -43,6 +43,8 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 ## Other publications
 
 [Comments on “Capital Income Taxation with Housing”](https://www.sciencedirect.com/science/article/abs/pii/S0165188920300531), _Journal of Economic Dynamics and Control_, Jun 2020
+
+[Axelle Ferriere discussion of: Sanctions and the exchange rate](https://academic.oup.com/economicpolicy/article-abstract/39/118/355/7699773), _JEconomic Policy_, Apr 2024
 
 
 ## Dormant research
