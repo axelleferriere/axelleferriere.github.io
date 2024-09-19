@@ -24,7 +24,7 @@ Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisitio
 
 ## Research in progress
 
-Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits, with G. Navarro
+[Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202409.pdf), with G. Navarro
 
 The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franjo and Y. Zheng
 
