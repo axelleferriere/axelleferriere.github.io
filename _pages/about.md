@@ -59,4 +59,5 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 [+](https://sciencespo.zoom.us/j/9582773300)
 
 
+<small>Photo credits: Alexis Lecomte.<small>
 
