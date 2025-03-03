@@ -31,7 +31,7 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 
 ## Publications
 
-[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20240301.pdf), with G. Navarro, _Review of Economic Studies_, forthcoming
+[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20240301.pdf), with G. Navarro, _Review of Economic Studies_, Apr 2024
 
 [On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, _Journal of Political Economy Macroeconomics_, Jun 2023
 
@@ -44,9 +44,11 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 
 ## Other publications
 
-[Comments on: “Capital Income Taxation with Housing”](https://www.sciencedirect.com/science/article/abs/pii/S0165188920300531), _Journal of Economic Dynamics and Control_, Jun 2020
+[Axelle Ferriere discussion of: AI & US jobs](https://academic.oup.com/economicpolicy/article-abstract/40/121/195/7984169), _Economic Policy_, Jan 2025
 
 [Axelle Ferriere discussion of: Sanctions and the exchange rate](https://academic.oup.com/economicpolicy/article-abstract/39/118/355/7699773), _Economic Policy_, Apr 2024
+
+[Comments on: “Capital Income Taxation with Housing”](https://www.sciencedirect.com/science/article/abs/pii/S0165188920300531), _Journal of Economic Dynamics and Control_, Jun 2020
 
 
 ## Dormant research
