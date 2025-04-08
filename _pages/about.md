@@ -19,7 +19,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 [Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202405.pdf), with P. Grübener and D. Sachs, May 2024
 
-[Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202409.pdf), with G. Navarro, Sept 2024
+[Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, April 2025
 
 Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
 
