@@ -17,7 +17,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 ## Working papers
 
-[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202405.pdf), with P. Grübener and D. Sachs, May 2024
+[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202505.pdf), with P. Grübener and D. Sachs, May 2025
 
 [Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, April 2025
 
@@ -31,9 +31,9 @@ The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franj
 
 ## Publications
 
-[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20240301.pdf), with G. Navarro, _Review of Economic Studies_, Apr 2024
+[The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20240301.pdf), with G. Navarro, _Review of Economic Studies_ ([link](https://academic.oup.com/restud/article-abstract/92/2/1061/7638840)), Apr 2024
 
-[On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, _Journal of Political Economy Macroeconomics_, Jun 2023
+[On the Optimal Design of Transfers and Income-Tax Progressivity](/files/FGNV_Draft_2022.10.pdf), with P. Grübener, G. Navarro and O. Vardishvili, _Journal of Political Economy Macroeconomics_ ([link](https://www.journals.uchicago.edu/doi/10.1086/725034)), Jun 2023
 
 [Fiscal Austerity in Ambiguous Times](https://www.aeaweb.org/articles?id=10.1257/mac.20160085), with A. Karantounias, _American Economic Journal: Macroeconomics_, Jan 2019 [[online appendix](/files/fiscal_austerity_online.pdf)]
 
