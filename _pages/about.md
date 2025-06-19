@@ -14,6 +14,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 [Curriculum Vitae](/files/CV_AxelleFerriere.pdf)
 
+Conference: [Macro Summer Workshop in Sciences Po, June 24](https://www.sciencespo.fr/department-economics/files/2025_Summer%20Workshops_Macro_MM_v5.pdf)
 
 ## Working papers
 
