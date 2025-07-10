@@ -14,13 +14,12 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 [Curriculum Vitae](/files/CV_AxelleFerriere.pdf)
 
-Conference: [Macro Summer Workshop in Sciences Po, June 24](https://www.sciencespo.fr/department-economics/files/2025_Summer%20Workshops_Macro_MM_v5.pdf)
 
 ## Working papers
 
-[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202505.pdf), with P. Grübener and D. Sachs, May 2025
+[Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, July 2024, Accepted at _IMF Economic Review_
 
-[Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, April 2025
+[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202505.pdf), with P. Grübener and D. Sachs, May 2025
 
 Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
 
