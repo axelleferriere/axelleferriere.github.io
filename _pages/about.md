@@ -17,7 +17,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 ## Working papers
 
-[Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, July 2024, Accepted at _IMF Economic Review_
+[Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, July 2025, accepted at _IMF Economic Review_
 
 [Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202505.pdf), with P. Grübener and D. Sachs, May 2025
 
