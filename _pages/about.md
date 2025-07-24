@@ -19,7 +19,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 [Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, July 2025, accepted at _IMF Economic Review_
 
-[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202505.pdf), with P. Grübener and D. Sachs, May 2025
+[Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202505.pdf), with P. Grübener and D. Sachs, July 2025, R&R at _Journal of Political Economy_
 
 Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
 
@@ -27,6 +27,8 @@ Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisitio
 ## Research in progress
 
 The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franjo and Y. Zheng
+
+When Skill Meets Money: A Fresh Take on Private Business Ownership, with A. Bacher, A. Irarrazabal, R. Lizarraga and Y. Zheng
 
 
 ## Publications
