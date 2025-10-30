@@ -22,8 +22,6 @@ I am a member of the Editorial Board of the Review of Economic Studies since Jan
 
 ## Working papers
 
-[Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, July 2025, accepted at _IMF Economic Review_
-
 [Optimal Redistribution: Rising Inequality vs. Rising Living Standards](/files/FGS_202505.pdf), with P. Grübener and D. Sachs, July 2025, R&R at _Journal of Political Economy_
 
 Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisition, with G. Navarro and R. Reyes-Heroles
@@ -37,6 +35,8 @@ When Skill Meets Money: A Fresh Take on Private Business Ownership, with A. Bach
 
 
 ## Publications
+
+[Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, _IMF Economic Review_ ([link](https://link.springer.com/article/10.1057/s41308-025-00287-w)), Sept 2025
 
 [The Heterogeneous Effects of Government Spending: It's All About Taxes](/files/HEFP_FN_20240301.pdf), with G. Navarro, _Review of Economic Studies_ ([link](https://academic.oup.com/restud/article-abstract/92/2/1061/7638840)), Apr 2024
 
