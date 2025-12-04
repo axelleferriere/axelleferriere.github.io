@@ -14,7 +14,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 I hold an ERC Starting Grant for the project RETTHINQ (2026-2030).
 
-I am a member of the Editorial Board of the Review of Economic Studies since January 2025.
+I am a member of the Editorial Board of the Review of Economic Studies.
 
 
 [Curriculum Vitae](/files/CV_AxelleFerriere.pdf)
