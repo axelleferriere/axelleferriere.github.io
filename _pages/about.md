@@ -65,7 +65,8 @@ When Skill Meets Money: A Fresh Take on Private Business Ownership, with A. Bach
 [Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco
 
 
-[+](https://sciencespo.zoom.us/j/9582773300)
+[+](https://sciencespo.zoom.us/j/9582773300) [+](/files/ps.pdf) [+](/files/slides.pptx)
+
 
 
 <small>Photo credits: Alexis Lecomte.<small>
