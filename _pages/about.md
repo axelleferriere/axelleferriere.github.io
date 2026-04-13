@@ -29,10 +29,9 @@ Escaping the Losses from Trade: The Impact of Heterogeneity and Skill Acquisitio
 
 ## Research in progress
 
-The Intangible Borrowing Constraint of Entrepreneurship, with L. Allub, L. Franjo and Y. Zheng
-
 When Skill Meets Money: A Fresh Take on Private Business Ownership, with A. Bacher, A. Irarrazabal, R. Lizarraga and Y. Zheng
 
+Managing Aggregate Demand with Consumption Taxes, with G. Navarro and M. Richard
 
 ## Publications
 
@@ -60,13 +59,12 @@ When Skill Meets Money: A Fresh Take on Private Business Ownership, with A. Bach
 
 ## Dormant research
 
-[Sovereign Default, Inequality, and Progressive Taxation](/files/Ferriere_default_2015.pdf)
+[Sovereign Default, Inequality, and Progressive Taxation](/files/Ferriere_default_2015.pdf), 2015
 
-[Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco
+[Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco, 2013
 
 
-[+](https://sciencespo.zoom.us/j/9582773300) [+](/files/ps.pdf) [+](/files/slides.pptx)
-
+[+](https://sciencespo.zoom.us/j/9582773300)
 
 
 <small>Photo credits: Alexis Lecomte.<small>
