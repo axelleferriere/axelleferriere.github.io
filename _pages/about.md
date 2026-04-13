@@ -33,6 +33,7 @@ When Skill Meets Money: A Fresh Take on Private Business Ownership, with A. Bach
 
 Managing Aggregate Demand with Consumption Taxes, with G. Navarro and M. Richard
 
+
 ## Publications
 
 [Fiscal Management of Aggregate Demand: The Effectiveness of Labor Tax Credits](/files/FN_IMF_202504.pdf), with G. Navarro, _IMF Economic Review_ ([link](https://link.springer.com/article/10.1057/s41308-025-00287-w)), Sept 2025
