@@ -14,9 +14,7 @@ My research focuses on macroeconomics and heterogeneity, with emphasis on fiscal
 
 I hold an ERC Starting Grant for the project RETTHINQ (2026-2030). I am also a member of the Editorial Board of the Review of Economic Studies.
 
-I'm co-organizing a **conference** titled _Frontier Research on Fiscal Policy_, taking place at the EUI in Florence on October 15-16. [Application deadline: July 10.](https://cepr.org/events/frontier-research-fiscal-policy)
-
-I'm co-organizing the **16th Summer Macro Workshop**, taking place at Sciences Po on June 26. [Program.](https://www.sciencespo.fr/department-economics/events/16th-summer-workshop-in-macroeconomics/)
+I'm co-organizing the **16th Summer Macro Workshop**, taking place at Sciences Po on June 26. [Program.](https://www.sciencespo.fr/department-economics/events/16th-summer-workshop-in-macroeconomics/) I'm also co-organizing a conference titled **Frontier Research on Fiscal Policy**, taking place at the EUI in Florence on October 15-16. [Application deadline: July 10.](https://cepr.org/events/frontier-research-fiscal-policy)
 
 
 [Curriculum Vitae](/files/CV_AxelleFerriere.pdf)
