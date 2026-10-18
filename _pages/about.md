@@ -17,7 +17,7 @@ I hold an ERC Starting Grant for the project RETTHINQ (2026-2030). I am a member
 [Curriculum Vitae](/files/CV_AxelleFerriere.pdf)
 
 
-I'm co-organizing the conference [Frontier Research on Fiscal Policy](https://cepr.org/events/frontier-research-fiscal-policy), taking place at the EUI in Florence on October 15-16.
+I’ll be presenting a paper at the [ZEW Public Finance Conference](https://www.zew.de/en/events-and-professional-training/detail/2027-public-finance-conference-1/4997) in Mannheim in May 2027. The call for papers is [here](/files/CfP_Public-Finance-2027.pdf)!
 
 
 ## Working papers
@@ -57,12 +57,6 @@ Managing Aggregate Demand with Consumption Taxes, with G. Navarro and M. Richard
 
 [Comments on: “Capital Income Taxation with Housing”](https://www.sciencedirect.com/science/article/abs/pii/S0165188920300531), _Journal of Economic Dynamics and Control_, Jun 2020
 
-
-## Dormant research
-
-[Sovereign Default, Inequality, and Progressive Taxation](/files/Ferriere_default_2015.pdf), 2015
-
-[Education, Frisch Elasticity, and Incentives](/files/BlancoFerriere_201312.pdf), with J. A. Blanco, 2013
 
 
 [+](https://sciencespo.zoom.us/j/9582773300)
