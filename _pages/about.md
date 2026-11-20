@@ -61,6 +61,8 @@ Managing Aggregate Demand with Consumption Taxes, with G. Navarro and M. Richard
 
 [+](https://sciencespo.zoom.us/j/9582773300)
 
+[spm1](/files/slides_shared.pdf)
+
 
 <small>Photo credits: Alexis Lecomte.<small>
 
