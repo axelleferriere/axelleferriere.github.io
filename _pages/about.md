@@ -17,7 +17,9 @@ I hold an ERC Starting Grant for the project RETTHINQ (2026-2030). I am a member
 [Curriculum Vitae](/files/CV_AxelleFerriere.pdf)
 
 
-I’ll be presenting a paper at the [ZEW Public Finance Conference](https://www.zew.de/en/events-and-professional-training/detail/2027-public-finance-conference-1/4997) in Mannheim in May 2027. The call for papers is [here](/files/CfP_Public-Finance-2027.pdf)!
+I’ll be giving a keynote at the [7th Annual Workshop for Women in Macroeconomics and Finance in Europe](https://www.diw.de/en/diw_01.c.1019853.en/events/wimfe_2027.html) in Berlin in April 2027. The call for papers is [here](/files/wimfe_cfp_2027.pdf), deadline Nov 30.
+
+I’ll be giving a keynote at the [ZEW Public Finance Conference](https://www.zew.de/en/events-and-professional-training/detail/2027-public-finance-conference-1/4997) in Mannheim in May 2027. The call for papers is [here](/files/CfP_Public-Finance-2027.pdf), deadline Feb 15.
 
 
 ## Working papers
